@@ -1,6 +1,8 @@
 # Tool & Technology Stack
 - Python
+- Robot framework
 - Selenium
+- Pyyaml
 - VS Code
 
 # To run this repo
